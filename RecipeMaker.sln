@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecipeMaker", "RecipeMaker.csproj", "{552FE507-E0E6-4593-B5A0-946D72678FBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoRecipeTester", "..\ContosoRecipeTester\ContosoRecipeTester.csproj", "{A8492116-2B5C-48DA-9382-C929CAB257A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{552FE507-E0E6-4593-B5A0-946D72678FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{552FE507-E0E6-4593-B5A0-946D72678FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{552FE507-E0E6-4593-B5A0-946D72678FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{552FE507-E0E6-4593-B5A0-946D72678FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8492116-2B5C-48DA-9382-C929CAB257A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8492116-2B5C-48DA-9382-C929CAB257A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8492116-2B5C-48DA-9382-C929CAB257A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8492116-2B5C-48DA-9382-C929CAB257A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCA4B848-D8D0-4D3E-B3E9-E1CC94667935}
+	EndGlobalSection
+EndGlobal
